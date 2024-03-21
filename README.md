@@ -4,7 +4,7 @@
 
 ### <p align="center">Technical skills:</p>
 <p align="center">
-  <a href="https://www.html.it/" target="blank"><img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" width="40" height="40"/></a>
+  <a href="https://www.html.it/" target="_blank"><img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" width="40" height="40"/></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"/></a>
   <a href="#"><img src="https://iconape.com/wp-content/files/eh/367786/svg/logo-sass-logo-icon-png-svg.png" width="40" height="40"/></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="40" height="40"/></a>
