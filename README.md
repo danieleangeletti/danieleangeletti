@@ -1,4 +1,4 @@
-### <h1>Hi there, I'm Daniele Angeletti 👋</h1>
+### <h1 align="center">Hi there, I'm Daniele Angeletti 👋</h1>
 
 ### <p>I am a passionate junior web developer with a strong enthusiasm for crafting engaging and intuitive digital experiences.</p>
 
