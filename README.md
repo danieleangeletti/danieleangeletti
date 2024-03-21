@@ -2,7 +2,7 @@
 
 ### <p align="center">I am a passionate junior web developer with a strong enthusiasm for crafting engaging and intuitive digital experiences.</p>
 
-Technical skills: <img src="https://www.w3.org/html/logo/" width="40" height="40"/>, CSS, SASS, Bootstrap, JavaScript, Vue.js, Vite, PHP, MySQL, Laravel
+Technical skills: <img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" width="40" height="40"/>, CSS, SASS, Bootstrap, JavaScript, Vue.js, Vite, PHP, MySQL, Laravel
 
 <!--
 **danieleangeletti/danieleangeletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
