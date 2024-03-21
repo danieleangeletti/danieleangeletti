@@ -1,6 +1,4 @@
-<center>
-  Hi there 👋
-</center>
+Hi there 👋
 
 
 <!--
