@@ -2,19 +2,7 @@
 
 ### <p>I am a passionate junior web developer with a strong enthusiasm for crafting engaging and intuitive digital experiences.</p>
 
-Technical skills:
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>SASS</li>
-  <li>Bootstrap</li>
-  <li>JavaScript</li>
-  <li>Vue.js</li>
-  <li>Vite</li>
-  <li>PHP</li>
-  <li>MySQL</li>
-  <li>Laravel</li>
-</ul>
+Technical skills: HTML, CSS, SASS, Bootstrap, JavaScript, Vue.js, Vite, PHP, MySQL, Laravel
 
 <!--
 **danieleangeletti/danieleangeletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
