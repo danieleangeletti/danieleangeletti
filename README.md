@@ -3,7 +3,7 @@
 ### <p align="center">I am a passionate junior web developer with a strong enthusiasm for crafting engaging and intuitive digital experiences.</p>
 
 Technical skills: <a href="#"><img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" width="40" height="40"/></a>
-CSS
+<a href="#"><img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" width="40" height="40"/></a>
 SASS
 Bootstrap
 JavaScript
