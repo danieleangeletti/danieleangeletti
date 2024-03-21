@@ -1,6 +1,6 @@
 ### <h1>Hi there, I'm Daniele Angeletti 👋</h1>
 
-<p>I am a passionate junior web developer with a strong enthusiasm for crafting engaging and intuitive digital experiences.</p>
+### <p>I am a passionate junior web developer with a strong enthusiasm for crafting engaging and intuitive digital experiences.</p>
 
 <!--
 **danieleangeletti/danieleangeletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
