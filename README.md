@@ -1,6 +1,4 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
-### <h1 class="text-center">Hi there, I'm Daniele Angeletti 👋</h1>
+### <h1 style="text-align: center;">Hi there, I'm Daniele Angeletti 👋</h1>
 
 <!--
 **danieleangeletti/danieleangeletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
