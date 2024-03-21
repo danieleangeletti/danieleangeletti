@@ -1,4 +1,4 @@
-### <h1 style="text-align: center;">Hi there, I'm Daniele Angeletti 👋</h1>
+### <p style="text-align: center;">Hi there, I'm Daniele Angeletti 👋</p>
 
 <!--
 **danieleangeletti/danieleangeletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
