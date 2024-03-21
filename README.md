@@ -1,4 +1,4 @@
-### <p style="text-align:center;">Hi there 👋</p>
+### Hi there 👋
 
 
 <!--
