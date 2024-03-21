@@ -4,16 +4,16 @@
 
 ### <p align="center">Technical skills:</p>
 <p align="center">
-  <a href="https://www.html.it/" target="_blank"><img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"/></a>
-  <a href="#"><img src="https://iconape.com/wp-content/files/eh/367786/svg/logo-sass-logo-icon-png-svg.png" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40" height="40"/></a>
-  <a href="#"><img src="https://i.pinimg.com/474x/cc/2a/d1/cc2ad105c2818e224bfb3bafb480e659.jpg" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="40" height="40"/></a>
+  <a href="https://www.html.it/"><img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"/></a>
+  <a href="https://sass-lang.com/"><img src="https://iconape.com/wp-content/files/eh/367786/svg/logo-sass-logo-icon-png-svg.png" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="40" height="40"/></a>
+  <a href="https://www.html.it/guide/guida-javascript-di-base/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/></a>
+  <a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" width="40" height="40"/></a>
+  <a href="https://vitejs.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="40" height="40"/></a>
+  <a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/it/"><img src="https://i.pinimg.com/474x/cc/2a/d1/cc2ad105c2818e224bfb3bafb480e659.jpg" width="40" height="40"/></a>
+  <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="40" height="40"/></a>
 </p>
 
 <!--
